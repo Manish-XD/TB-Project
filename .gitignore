@@ -1,0 +1,5 @@
+/.ipynb_*
+/datasets
+/env
+model.onnx
+model.pth
